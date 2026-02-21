@@ -49,8 +49,6 @@ streamlit run app.py
 | Ishanka Dilshan | — |
 ```
 
----
 
-If Yasiru and Ishanka have GitHub accounts, just replace the `—` with their profile links like:
-```
-[YasiruUsername](https://github.com/YasiruUsername)
+
+
