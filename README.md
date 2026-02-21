@@ -47,8 +47,3 @@ streamlit run app.py
 | Vishwa Hirimuthugoda | [VishwaUHirimuthugoda](https://github.com/VishwaUHirimuthugoda) |
 | Yasiru Chandira | — |
 | Ishanka Dilshan | — |
-```
-
-
-
-
